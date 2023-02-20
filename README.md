@@ -4,4 +4,4 @@
 
 https://chernataly2020.github.io/cars-hw/
 
-#HTML, #CSS, #Javascript, #Typescript, #Angular
+HTML, CSS, Javascript, Typescript, Angular
